@@ -17,6 +17,8 @@ long long MaxPairwiseProduct_Best(std::vector<int>& numbers) {
 
 int main() {
     int n;
+    cout<<"hello\n";
+    return 0;
     std::cin >> n;
     std::vector<int> numbers(n);
     for (int i = 0; i < n; ++i) {
